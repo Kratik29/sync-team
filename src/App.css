@@ -1,0 +1,23 @@
+.body{
+    --slack-color: #1a1a41e9;
+    overflow: hidden ;
+    /* overflow-y: auto; */
+
+}
+.app_body{
+        display: flex;
+       
+   width: 100%;
+    /* height: auto; */
+    margin-right: -20%;
+}
+.sideset{
+
+    display:flex;
+    
+}
+.routepath{
+    
+    margin-left: -31%;
+    width: 100%;
+}
